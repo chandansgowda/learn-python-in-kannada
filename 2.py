@@ -2,6 +2,8 @@ name = "chandan" #string
 age = 22 #int
 is_student = False # bool
 weight = 69.5 #float
+x = None #NoneType
+print(type(x))
 
 print(type(is_student))
 
