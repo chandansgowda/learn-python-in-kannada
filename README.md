@@ -12,9 +12,10 @@ Whether you're a beginner or someone looking to solidify your coding foundation,
 
 ## 🔗 Useful Links
 
-* 📺 YouTube: [@Engineering\_in\_Kannada](https://www.youtube.com/@EngineeringinKannada)
-* 📸 Instagram: [@engineering\_in\_kannada](https://instagram.com/engineering_in_kannada)
-* 🧠 Personal Motivation Channel: [@chandan.speaks](https://instagram.com/chandan.speaks)
+- 💬 Discord Community: [Join our Discord](https://discord.gg/w5mYV8cpZY)
+- 📺 YouTube: [@Engineering_in_Kannada](https://www.youtube.com/@EngineeringinKannada)
+- 📸 Instagram: [@engineering_in_kannada](https://instagram.com/engineering_in_kannada)
+- 🧠 Personal Motivation Channel: [@chandan.speaks](https://instagram.com/chandan.speaks)
 
 ## 🤝 Contributions
 
